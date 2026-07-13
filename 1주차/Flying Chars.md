@@ -10,10 +10,12 @@
 
 딱히 첨부파일을 제공하지 않는다길래 개발자도구를 켜서 살펴보니
 
+<img width="729" height="630" alt="image (12)" src="https://github.com/user-attachments/assets/35c18d0b-11d2-47ad-ad41-077af5f6557d" />
 
 저 사진들이 날라다닌다는 사실을 알아냈다.
 
 그 후 Sources에서 사진들의 정체를 쉽게 알 수 있었고,
+<img width="983" height="955" alt="image (13)" src="https://github.com/user-attachments/assets/892b0680-be09-4c8b-a73c-05202f4b100c" />
 
 코드에 나온 순서대로 사진들을 배열해주면(
 
